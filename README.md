@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Portfolio & Registration Form Website
 
 A simple HTML project with a homepage and contact form
@@ -63,3 +64,6 @@ HTML5
 ## Author
 
 Favour Ezema
+=======
+# contact-form
+>>>>>>> 8f97b50d11533aa4ef1de612d2eb61f8b2cbe9a8
